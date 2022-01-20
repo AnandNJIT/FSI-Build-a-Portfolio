@@ -1,0 +1,64 @@
+body {
+
+    background-color: yellowgreen;
+
+}
+h1 {
+    
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 0.5px;
+  font-size: 50px;
+    
+}
+
+div {
+    line-height: 2.5em;
+    border-style: solid;
+    text-align: center;
+    text-shadow: thistle;
+    text-size-adjust: 20;
+}
+
+
+
+h2 {
+    color: black;
+    text-size-adjust: 25;
+    padding: 1px;
+
+}
+
+
+.main1 {
+
+    color: hotpink;
+    background-color: black;
+    padding: 3px; 
+}
+
+.main2 {
+
+   border-style: double;
+   border-color: crimson;
+}
+
+h3 {
+    color:crimson;
+    font-size: 40px;
+}
+
+.main3 {
+    color:black;
+    font-size: 25px;
+}
+
+.main4 {
+    font-size: 20px;
+    color: chocolate;
+    line align 
+}
+
+        
